@@ -1,0 +1,148 @@
+[
+    {
+        "moduleFiles": [
+            {
+                "entries": [
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 21,
+                        "durationMicroseconds": 872,
+                        "errorMessage": "",
+                        "functionName": "implicitHeight",
+                        "line": 13
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 24,
+                        "durationMicroseconds": 1153,
+                        "errorMessage": "",
+                        "functionName": "currentFolder",
+                        "line": 24
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 22,
+                        "durationMicroseconds": 315,
+                        "errorMessage": "",
+                        "functionName": "nameFilters",
+                        "line": 25
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 21,
+                        "durationMicroseconds": 520,
+                        "errorMessage": "",
+                        "functionName": "onAccepted",
+                        "line": 28
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 35,
+                        "durationMicroseconds": 523,
+                        "errorMessage": "",
+                        "functionName": "index",
+                        "line": 26
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 24,
+                        "durationMicroseconds": 733,
+                        "errorMessage": "",
+                        "functionName": "onPathChanged",
+                        "line": 33
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 18,
+                        "durationMicroseconds": 882,
+                        "errorMessage": "Cannot access value for name Config",
+                        "functionName": "visible",
+                        "line": 38
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 23,
+                        "durationMicroseconds": 359,
+                        "errorMessage": "",
+                        "functionName": "left",
+                        "line": 39
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 23,
+                        "durationMicroseconds": 1026,
+                        "errorMessage": "Cannot access value for name Config",
+                        "functionName": "base",
+                        "line": 43
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 23,
+                        "durationMicroseconds": 490,
+                        "errorMessage": "Cannot access value for name Config",
+                        "functionName": "text",
+                        "line": 44
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 34,
+                        "durationMicroseconds": 516,
+                        "errorMessage": "Cannot access value for name Config",
+                        "functionName": "highlightedText",
+                        "line": 45
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 28,
+                        "durationMicroseconds": 358,
+                        "errorMessage": "Cannot access value for name Config",
+                        "functionName": "highlight",
+                        "line": 47
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 27,
+                        "durationMicroseconds": 624,
+                        "errorMessage": "Cannot access value for name Config",
+                        "functionName": "base",
+                        "line": 51
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 27,
+                        "durationMicroseconds": 333,
+                        "errorMessage": "Cannot access value for name Config",
+                        "functionName": "text",
+                        "line": 52
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 32,
+                        "durationMicroseconds": 661,
+                        "errorMessage": "Cannot access value for name Config",
+                        "functionName": "highlight",
+                        "line": 53
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 30,
+                        "durationMicroseconds": 831,
+                        "errorMessage": "",
+                        "functionName": "onTriggered",
+                        "line": 57
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 30,
+                        "durationMicroseconds": 284,
+                        "errorMessage": "",
+                        "functionName": "onTriggered",
+                        "line": 61
+                    }
+                ],
+                "filepath": "/home/phong/Qt/Examples/Qt-6.8.2/demos/mediaplayer/MediaPlayer/PlayerMenuBar.qml"
+            }
+        ],
+        "moduleId": "MediaPlayer(MediaPlayer)"
+    }
+]

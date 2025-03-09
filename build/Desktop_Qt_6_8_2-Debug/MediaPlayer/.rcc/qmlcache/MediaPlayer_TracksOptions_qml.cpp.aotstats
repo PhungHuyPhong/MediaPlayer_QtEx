@@ -1,0 +1,92 @@
+[
+    {
+        "moduleFiles": [
+            {
+                "entries": [
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 21,
+                        "durationMicroseconds": 325,
+                        "errorMessage": "",
+                        "functionName": "implicitHeight",
+                        "line": 16
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 5,
+                        "durationMicroseconds": 39,
+                        "errorMessage": "Instruction \"generate_StoreLocal\" not implemented",
+                        "functionName": "readTracks",
+                        "line": 22
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 24,
+                        "durationMicroseconds": 257,
+                        "errorMessage": "",
+                        "functionName": "onMetaDataChanged",
+                        "line": 79
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 19,
+                        "durationMicroseconds": 741,
+                        "errorMessage": "",
+                        "functionName": "text",
+                        "line": 52
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 20,
+                        "durationMicroseconds": 377,
+                        "errorMessage": "Cannot access value for name Config",
+                        "functionName": "color",
+                        "line": 55
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 24,
+                        "durationMicroseconds": 125,
+                        "errorMessage": "",
+                        "functionName": "model",
+                        "line": 62
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 30,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Cannot resolve property type  for binding on checked.",
+                        "functionName": "checked",
+                        "line": 65
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 27,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Cannot resolve property type  for binding on text.",
+                        "functionName": "text",
+                        "line": 66
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 32,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Cannot resolve property type  for binding on onClicked.",
+                        "functionName": "onClicked",
+                        "line": 73
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 40,
+                        "durationMicroseconds": 100,
+                        "errorMessage": "",
+                        "functionName": "group",
+                        "line": 71
+                    }
+                ],
+                "filepath": "/home/phong/Qt/Examples/Qt-6.8.2/demos/mediaplayer/MediaPlayer/TracksOptions.qml"
+            }
+        ],
+        "moduleId": "MediaPlayer(MediaPlayer)"
+    }
+]

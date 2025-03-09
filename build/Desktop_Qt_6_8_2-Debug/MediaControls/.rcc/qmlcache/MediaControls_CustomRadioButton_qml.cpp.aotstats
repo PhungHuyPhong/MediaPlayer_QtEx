@@ -1,0 +1,92 @@
+[
+    {
+        "moduleFiles": [
+            {
+                "entries": [
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 12,
+                        "durationMicroseconds": 221,
+                        "errorMessage": "",
+                        "functionName": "x",
+                        "line": 17
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 12,
+                        "durationMicroseconds": 395,
+                        "errorMessage": "",
+                        "functionName": "y",
+                        "line": 18
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 23,
+                        "durationMicroseconds": 220,
+                        "errorMessage": "Cannot access value for name Config",
+                        "functionName": "color",
+                        "line": 20
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 20,
+                        "durationMicroseconds": 162,
+                        "errorMessage": "Cannot access value for name Config",
+                        "functionName": "color",
+                        "line": 27
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 22,
+                        "durationMicroseconds": 139,
+                        "errorMessage": "",
+                        "functionName": "visible",
+                        "line": 29
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 31,
+                        "durationMicroseconds": 91,
+                        "errorMessage": "",
+                        "functionName": "centerIn",
+                        "line": 28
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 15,
+                        "durationMicroseconds": 125,
+                        "errorMessage": "",
+                        "functionName": "text",
+                        "line": 34
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 28,
+                        "durationMicroseconds": 122,
+                        "errorMessage": "",
+                        "functionName": "verticalAlignment",
+                        "line": 36
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 22,
+                        "durationMicroseconds": 287,
+                        "errorMessage": "",
+                        "functionName": "leftPadding",
+                        "line": 37
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 16,
+                        "durationMicroseconds": 316,
+                        "errorMessage": "Cannot access value for name Config",
+                        "functionName": "color",
+                        "line": 38
+                    }
+                ],
+                "filepath": "/home/phong/Qt/Examples/Qt-6.8.2/demos/mediaplayer/MediaControls/CustomRadioButton.qml"
+            }
+        ],
+        "moduleId": "MediaControls(MediaControls)"
+    }
+]

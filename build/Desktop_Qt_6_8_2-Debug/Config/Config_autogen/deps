@@ -1,0 +1,9 @@
+Config_autogen/timestamp: \
+	/home/phong/Qt/6.8.2/gcc_64/lib/cmake/Qt6Core/Qt6CoreConfigureFileTemplate.in \
+	/home/phong/Qt/6.8.2/gcc_64/lib/cmake/Qt6Core/Qt6CoreResourceInit.in.cpp \
+	/home/phong/Qt/6.8.2/gcc_64/lib/cmake/Qt6Qml/Qt6QmlModuleDirMappingTemplate.qrc.in \
+	/home/phong/Qt/6.8.2/gcc_64/lib/cmake/Qt6Qml/Qt6QmlPluginTemplate.cpp.in \
+	/home/phong/Qt/6.8.2/gcc_64/lib/cmake/Qt6Qml/Qt6qmldirTemplate.cmake.in \
+	/home/phong/Qt/Examples/Qt-6.8.2/demos/mediaplayer/Config/CMakeLists.txt \
+	/home/phong/Qt/Examples/Qt-6.8.2/demos/mediaplayer/build/Desktop_Qt_6_8_2-Debug/Config/Configplugin_ConfigPlugin_in.cpp \
+	/home/phong/Qt/Tools/CMake/bin/cmake

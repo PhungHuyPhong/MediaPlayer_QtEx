@@ -1,0 +1,1013 @@
+{
+	"archive" : {},
+	"artifacts" : 
+	[
+		{
+			"path" : "MediaPlayer/libMediaPlayer.a"
+		}
+	],
+	"backtrace" : 4,
+	"backtraceGraph" : 
+	{
+		"commands" : 
+		[
+			"add_library",
+			"_qt_internal_add_library",
+			"qt6_add_library",
+			"qt_add_library",
+			"add_dependencies",
+			"_qt_internal_qml_copy_files_to_build_dir",
+			"qt6_target_qml_sources",
+			"qt6_add_qml_module",
+			"qt_add_qml_module",
+			"target_link_libraries",
+			"target_include_directories",
+			"_qt_internal_qml_type_registration",
+			"target_sources",
+			"qt6_extract_metatypes",
+			"__qt_propagate_generated_resource",
+			"_qt_internal_process_resource",
+			"qt6_add_resources",
+			"_qt_internal_target_enable_qmlcachegen",
+			"_qt_internal_expose_deferred_files_to_ide",
+			"qt6_finalize_target"
+		],
+		"files" : 
+		[
+			"/home/phong/Qt/6.8.2/gcc_64/lib/cmake/Qt6Core/Qt6CoreMacros.cmake",
+			"MediaPlayer/CMakeLists.txt",
+			"/home/phong/Qt/6.8.2/gcc_64/lib/cmake/Qt6Qml/Qt6QmlMacros.cmake",
+			"/home/phong/Qt/6.8.2/gcc_64/lib/cmake/Qt6Core/Qt6CoreMacros.cmake:792:EVAL"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 1
+			},
+			{
+				"command" : 3,
+				"file" : 1,
+				"line" : 1,
+				"parent" : 0
+			},
+			{
+				"command" : 2,
+				"file" : 0,
+				"line" : 2767,
+				"parent" : 1
+			},
+			{
+				"command" : 1,
+				"file" : 0,
+				"line" : 2655,
+				"parent" : 2
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 2742,
+				"parent" : 3
+			},
+			{
+				"command" : 8,
+				"file" : 1,
+				"line" : 8,
+				"parent" : 0
+			},
+			{
+				"command" : 7,
+				"file" : 2,
+				"line" : 1241,
+				"parent" : 5
+			},
+			{
+				"command" : 6,
+				"file" : 2,
+				"line" : 896,
+				"parent" : 6
+			},
+			{
+				"command" : 5,
+				"file" : 2,
+				"line" : 3448,
+				"parent" : 7
+			},
+			{
+				"command" : 4,
+				"file" : 2,
+				"line" : 2859,
+				"parent" : 8
+			},
+			{
+				"command" : 5,
+				"file" : 2,
+				"line" : 3454,
+				"parent" : 7
+			},
+			{
+				"command" : 4,
+				"file" : 2,
+				"line" : 2859,
+				"parent" : 10
+			},
+			{
+				"command" : 9,
+				"file" : 2,
+				"line" : 591,
+				"parent" : 6
+			},
+			{
+				"command" : 11,
+				"file" : 2,
+				"line" : 785,
+				"parent" : 6
+			},
+			{
+				"command" : 10,
+				"file" : 2,
+				"line" : 3855,
+				"parent" : 13
+			},
+			{
+				"command" : 13,
+				"file" : 2,
+				"line" : 3655,
+				"parent" : 13
+			},
+			{
+				"command" : 12,
+				"file" : 0,
+				"line" : 1500,
+				"parent" : 15
+			},
+			{
+				"command" : 12,
+				"file" : 2,
+				"line" : 3821,
+				"parent" : 13
+			},
+			{
+				"command" : 16,
+				"file" : 2,
+				"line" : 839,
+				"parent" : 6
+			},
+			{
+				"command" : 15,
+				"file" : 0,
+				"line" : 406,
+				"parent" : 18
+			},
+			{
+				"command" : 14,
+				"file" : 0,
+				"line" : 2491,
+				"parent" : 19
+			},
+			{
+				"command" : 12,
+				"file" : 0,
+				"line" : 2089,
+				"parent" : 20
+			},
+			{
+				"command" : 12,
+				"file" : 2,
+				"line" : 3175,
+				"parent" : 7
+			},
+			{
+				"command" : 17,
+				"file" : 2,
+				"line" : 3312,
+				"parent" : 7
+			},
+			{
+				"command" : 12,
+				"file" : 2,
+				"line" : 1710,
+				"parent" : 23
+			},
+			{
+				"command" : 12,
+				"file" : 2,
+				"line" : 3368,
+				"parent" : 7
+			},
+			{
+				"command" : 12,
+				"file" : 2,
+				"line" : 3175,
+				"parent" : 7
+			},
+			{
+				"command" : 12,
+				"file" : 2,
+				"line" : 3368,
+				"parent" : 7
+			},
+			{
+				"command" : 12,
+				"file" : 2,
+				"line" : 3175,
+				"parent" : 7
+			},
+			{
+				"command" : 12,
+				"file" : 2,
+				"line" : 3368,
+				"parent" : 7
+			},
+			{
+				"command" : 12,
+				"file" : 2,
+				"line" : 3175,
+				"parent" : 7
+			},
+			{
+				"command" : 12,
+				"file" : 2,
+				"line" : 3368,
+				"parent" : 7
+			},
+			{
+				"command" : 12,
+				"file" : 2,
+				"line" : 3175,
+				"parent" : 7
+			},
+			{
+				"command" : 12,
+				"file" : 2,
+				"line" : 3368,
+				"parent" : 7
+			},
+			{
+				"command" : 12,
+				"file" : 2,
+				"line" : 3175,
+				"parent" : 7
+			},
+			{
+				"command" : 12,
+				"file" : 2,
+				"line" : 3368,
+				"parent" : 7
+			},
+			{
+				"command" : 12,
+				"file" : 2,
+				"line" : 3175,
+				"parent" : 7
+			},
+			{
+				"command" : 12,
+				"file" : 2,
+				"line" : 3368,
+				"parent" : 7
+			},
+			{
+				"command" : 12,
+				"file" : 2,
+				"line" : 3175,
+				"parent" : 7
+			},
+			{
+				"command" : 12,
+				"file" : 2,
+				"line" : 3368,
+				"parent" : 7
+			},
+			{
+				"command" : 12,
+				"file" : 2,
+				"line" : 3175,
+				"parent" : 7
+			},
+			{
+				"command" : 12,
+				"file" : 2,
+				"line" : 3368,
+				"parent" : 7
+			},
+			{
+				"command" : 12,
+				"file" : 2,
+				"line" : 3175,
+				"parent" : 7
+			},
+			{
+				"command" : 12,
+				"file" : 2,
+				"line" : 3368,
+				"parent" : 7
+			},
+			{
+				"command" : 12,
+				"file" : 2,
+				"line" : 3175,
+				"parent" : 7
+			},
+			{
+				"command" : 12,
+				"file" : 2,
+				"line" : 3368,
+				"parent" : 7
+			},
+			{
+				"command" : 12,
+				"file" : 2,
+				"line" : 3175,
+				"parent" : 7
+			},
+			{
+				"command" : 12,
+				"file" : 2,
+				"line" : 3368,
+				"parent" : 7
+			},
+			{
+				"command" : 16,
+				"file" : 2,
+				"line" : 3470,
+				"parent" : 7
+			},
+			{
+				"command" : 15,
+				"file" : 0,
+				"line" : 406,
+				"parent" : 48
+			},
+			{
+				"command" : 14,
+				"file" : 0,
+				"line" : 2491,
+				"parent" : 49
+			},
+			{
+				"command" : 12,
+				"file" : 0,
+				"line" : 2089,
+				"parent" : 50
+			},
+			{
+				"file" : 1,
+				"line" : -1,
+				"parent" : 0
+			},
+			{
+				"command" : 19,
+				"file" : 3,
+				"line" : 1,
+				"parent" : 52
+			},
+			{
+				"command" : 18,
+				"file" : 0,
+				"line" : 817,
+				"parent" : 53
+			},
+			{
+				"command" : 12,
+				"file" : 0,
+				"line" : 2212,
+				"parent" : 54
+			}
+		]
+	},
+	"compileGroups" : 
+	[
+		{
+			"compileCommandFragments" : 
+			[
+				{
+					"fragment" : "-DQT_QML_DEBUG -g -fdiagnostics-color=always"
+				},
+				{
+					"backtrace" : 12,
+					"fragment" : "-fPIC"
+				}
+			],
+			"defines" : 
+			[
+				{
+					"backtrace" : 12,
+					"define" : "QT_CORE_LIB"
+				},
+				{
+					"backtrace" : 12,
+					"define" : "QT_NETWORK_LIB"
+				},
+				{
+					"backtrace" : 12,
+					"define" : "QT_QMLINTEGRATION_LIB"
+				},
+				{
+					"backtrace" : 12,
+					"define" : "QT_QML_LIB"
+				}
+			],
+			"includes" : 
+			[
+				{
+					"path" : "/home/phong/Qt/Examples/Qt-6.8.2/demos/mediaplayer/build/Desktop_Qt_6_8_2-Debug/MediaPlayer"
+				},
+				{
+					"path" : "/home/phong/Qt/Examples/Qt-6.8.2/demos/mediaplayer/MediaPlayer"
+				},
+				{
+					"backtrace" : 0,
+					"path" : "/home/phong/Qt/Examples/Qt-6.8.2/demos/mediaplayer/build/Desktop_Qt_6_8_2-Debug/MediaPlayer/MediaPlayer_autogen/include"
+				},
+				{
+					"backtrace" : 14,
+					"isSystem" : true,
+					"path" : "/home/phong/Qt/6.8.2/gcc_64/include/QtQml/6.8.2"
+				},
+				{
+					"backtrace" : 14,
+					"isSystem" : true,
+					"path" : "/home/phong/Qt/6.8.2/gcc_64/include/QtQml/6.8.2/QtQml"
+				},
+				{
+					"backtrace" : 14,
+					"isSystem" : true,
+					"path" : "/home/phong/Qt/6.8.2/gcc_64/include/QtCore/6.8.2"
+				},
+				{
+					"backtrace" : 14,
+					"isSystem" : true,
+					"path" : "/home/phong/Qt/6.8.2/gcc_64/include/QtCore/6.8.2/QtCore"
+				},
+				{
+					"backtrace" : 14,
+					"isSystem" : true,
+					"path" : "/home/phong/Qt/6.8.2/gcc_64/include/QtCore"
+				},
+				{
+					"backtrace" : 14,
+					"isSystem" : true,
+					"path" : "/home/phong/Qt/6.8.2/gcc_64/include"
+				},
+				{
+					"backtrace" : 14,
+					"isSystem" : true,
+					"path" : "/home/phong/Qt/6.8.2/gcc_64/mkspecs/linux-g++"
+				},
+				{
+					"backtrace" : 14,
+					"isSystem" : true,
+					"path" : "/home/phong/Qt/6.8.2/gcc_64/include/QtQml"
+				},
+				{
+					"backtrace" : 14,
+					"isSystem" : true,
+					"path" : "/home/phong/Qt/6.8.2/gcc_64/include/QtQmlIntegration"
+				},
+				{
+					"backtrace" : 14,
+					"isSystem" : true,
+					"path" : "/home/phong/Qt/6.8.2/gcc_64/include/QtNetwork"
+				}
+			],
+			"language" : "CXX",
+			"sourceIndexes" : 
+			[
+				0,
+				2,
+				3,
+				5,
+				6,
+				8,
+				10,
+				12,
+				14,
+				16,
+				18,
+				20,
+				22,
+				24,
+				26,
+				28,
+				29
+			]
+		}
+	],
+	"dependencies" : 
+	[
+		{
+			"backtrace" : 9,
+			"id" : "MediaPlayer_copy_qml::@98d2cf9994e7058dbcc1"
+		},
+		{
+			"backtrace" : 11,
+			"id" : "MediaPlayer_copy_res::@98d2cf9994e7058dbcc1"
+		},
+		{
+			"id" : "MediaPlayer_autogen_timestamp_deps::@98d2cf9994e7058dbcc1"
+		},
+		{
+			"backtrace" : 0,
+			"id" : "MediaPlayer_autogen::@98d2cf9994e7058dbcc1"
+		}
+	],
+	"id" : "MediaPlayer::@98d2cf9994e7058dbcc1",
+	"name" : "MediaPlayer",
+	"nameOnDisk" : "libMediaPlayer.a",
+	"paths" : 
+	{
+		"build" : "MediaPlayer",
+		"source" : "MediaPlayer"
+	},
+	"sourceGroups" : 
+	[
+		{
+			"name" : "Source Files\\Generated",
+			"sourceIndexes" : 
+			[
+				0,
+				43
+			]
+		},
+		{
+			"name" : "",
+			"sourceIndexes" : 
+			[
+				1,
+				4,
+				7,
+				9,
+				11,
+				13,
+				15,
+				17,
+				19,
+				21,
+				23,
+				25,
+				27,
+				30,
+				31,
+				32,
+				35,
+				36,
+				37,
+				38,
+				39,
+				40,
+				41,
+				42,
+				63,
+				64,
+				65
+			]
+		},
+		{
+			"name" : "Source Files",
+			"sourceIndexes" : 
+			[
+				2,
+				3,
+				5,
+				6,
+				8,
+				10,
+				12,
+				14,
+				16,
+				18,
+				20,
+				22,
+				24,
+				26,
+				28,
+				29
+			]
+		},
+		{
+			"name" : "Resources",
+			"sourceIndexes" : 
+			[
+				33,
+				34
+			]
+		},
+		{
+			"name" : "CMake Rules",
+			"sourceIndexes" : 
+			[
+				44,
+				45,
+				46,
+				47,
+				48,
+				49,
+				50,
+				51,
+				52,
+				53,
+				54,
+				55,
+				56,
+				57,
+				58,
+				59,
+				60,
+				61,
+				62
+			]
+		}
+	],
+	"sources" : 
+	[
+		{
+			"backtrace" : 0,
+			"compileGroupIndex" : 0,
+			"isGenerated" : true,
+			"path" : "build/Desktop_Qt_6_8_2-Debug/MediaPlayer/MediaPlayer_autogen/mocs_compilation.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 16,
+			"isGenerated" : true,
+			"path" : "build/Desktop_Qt_6_8_2-Debug/MediaPlayer/meta_types/qt6mediaplayer_debug_metatypes.json.gen",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 17,
+			"compileGroupIndex" : 0,
+			"isGenerated" : true,
+			"path" : "build/Desktop_Qt_6_8_2-Debug/MediaPlayer/mediaplayer_qmltyperegistrations.cpp",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 21,
+			"compileGroupIndex" : 0,
+			"isGenerated" : true,
+			"path" : "build/Desktop_Qt_6_8_2-Debug/MediaPlayer/.qt/rcc/qrc_qmake_MediaPlayer.cpp",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 22,
+			"path" : "MediaPlayer/Main.qml",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 24,
+			"compileGroupIndex" : 0,
+			"isGenerated" : true,
+			"path" : "build/Desktop_Qt_6_8_2-Debug/MediaPlayer/.rcc/qmlcache/MediaPlayer_qmlcache_loader.cpp",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 25,
+			"compileGroupIndex" : 0,
+			"isGenerated" : true,
+			"path" : "build/Desktop_Qt_6_8_2-Debug/MediaPlayer/.rcc/qmlcache/MediaPlayer_Main_qml.cpp",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 26,
+			"path" : "MediaPlayer/Images.qml",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 27,
+			"compileGroupIndex" : 0,
+			"isGenerated" : true,
+			"path" : "build/Desktop_Qt_6_8_2-Debug/MediaPlayer/.rcc/qmlcache/MediaPlayer_Images_qml.cpp",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 28,
+			"path" : "MediaPlayer/MetadataInfo.qml",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 29,
+			"compileGroupIndex" : 0,
+			"isGenerated" : true,
+			"path" : "build/Desktop_Qt_6_8_2-Debug/MediaPlayer/.rcc/qmlcache/MediaPlayer_MetadataInfo_qml.cpp",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 30,
+			"path" : "MediaPlayer/PlayerMenuBar.qml",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 31,
+			"compileGroupIndex" : 0,
+			"isGenerated" : true,
+			"path" : "build/Desktop_Qt_6_8_2-Debug/MediaPlayer/.rcc/qmlcache/MediaPlayer_PlayerMenuBar_qml.cpp",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 32,
+			"path" : "MediaPlayer/TracksInfo.qml",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 33,
+			"compileGroupIndex" : 0,
+			"isGenerated" : true,
+			"path" : "build/Desktop_Qt_6_8_2-Debug/MediaPlayer/.rcc/qmlcache/MediaPlayer_TracksInfo_qml.cpp",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 34,
+			"path" : "MediaPlayer/TracksOptions.qml",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 35,
+			"compileGroupIndex" : 0,
+			"isGenerated" : true,
+			"path" : "build/Desktop_Qt_6_8_2-Debug/MediaPlayer/.rcc/qmlcache/MediaPlayer_TracksOptions_qml.cpp",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 36,
+			"path" : "MediaPlayer/PlaylistInfo.qml",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 37,
+			"compileGroupIndex" : 0,
+			"isGenerated" : true,
+			"path" : "build/Desktop_Qt_6_8_2-Debug/MediaPlayer/.rcc/qmlcache/MediaPlayer_PlaylistInfo_qml.cpp",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 38,
+			"path" : "MediaPlayer/UrlPopup.qml",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 39,
+			"compileGroupIndex" : 0,
+			"isGenerated" : true,
+			"path" : "build/Desktop_Qt_6_8_2-Debug/MediaPlayer/.rcc/qmlcache/MediaPlayer_UrlPopup_qml.cpp",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 40,
+			"path" : "MediaPlayer/SettingsInfo.qml",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 41,
+			"compileGroupIndex" : 0,
+			"isGenerated" : true,
+			"path" : "build/Desktop_Qt_6_8_2-Debug/MediaPlayer/.rcc/qmlcache/MediaPlayer_SettingsInfo_qml.cpp",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 42,
+			"path" : "MediaPlayer/ThemeInfo.qml",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 43,
+			"compileGroupIndex" : 0,
+			"isGenerated" : true,
+			"path" : "build/Desktop_Qt_6_8_2-Debug/MediaPlayer/.rcc/qmlcache/MediaPlayer_ThemeInfo_qml.cpp",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 44,
+			"path" : "MediaPlayer/ErrorPopup.qml",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 45,
+			"compileGroupIndex" : 0,
+			"isGenerated" : true,
+			"path" : "build/Desktop_Qt_6_8_2-Debug/MediaPlayer/.rcc/qmlcache/MediaPlayer_ErrorPopup_qml.cpp",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 46,
+			"path" : "MediaPlayer/TouchMenu.qml",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 47,
+			"compileGroupIndex" : 0,
+			"isGenerated" : true,
+			"path" : "build/Desktop_Qt_6_8_2-Debug/MediaPlayer/.rcc/qmlcache/MediaPlayer_TouchMenu_qml.cpp",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 51,
+			"compileGroupIndex" : 0,
+			"isGenerated" : true,
+			"path" : "build/Desktop_Qt_6_8_2-Debug/MediaPlayer/.qt/rcc/qrc_MediaPlayer_raw_qml_0.cpp",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 55,
+			"isGenerated" : true,
+			"path" : "build/Desktop_Qt_6_8_2-Debug/MediaPlayer/.qt/rcc/qmake_MediaPlayer.qrc",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 55,
+			"isGenerated" : true,
+			"path" : "build/Desktop_Qt_6_8_2-Debug/MediaPlayer/qmldir",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 55,
+			"isGenerated" : true,
+			"path" : "build/Desktop_Qt_6_8_2-Debug/MediaPlayer/.qt/rcc/MediaPlayer_raw_qml_0.qrc",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 55,
+			"path" : "MediaPlayer/icons/Shadow.png",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 55,
+			"path" : "MediaPlayer/icons/Shadow@2x.png",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 55,
+			"path" : "MediaPlayer/icons/Default_CoverArt.svg",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 55,
+			"path" : "MediaPlayer/icons/Movie_Active.svg",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 55,
+			"path" : "MediaPlayer/icons/Movie_Icon_Dark.svg",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 55,
+			"path" : "MediaPlayer/icons/Movie_Icon.svg",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 55,
+			"path" : "MediaPlayer/icons/Music_Active.svg",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 55,
+			"path" : "MediaPlayer/icons/Music_Icon_Dark.svg",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 55,
+			"path" : "MediaPlayer/icons/Music_Icon.svg",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 55,
+			"path" : "MediaPlayer/icons/Warning_Icon.svg",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build/Desktop_Qt_6_8_2-Debug/MediaPlayer/MediaPlayer_autogen/timestamp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build/Desktop_Qt_6_8_2-Debug/MediaPlayer/meta_types/qt6mediaplayer_debug_metatypes.json.gen.rule",
+			"sourceGroupIndex" : 4
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build/Desktop_Qt_6_8_2-Debug/MediaPlayer/mediaplayer_qmltyperegistrations.cpp.rule",
+			"sourceGroupIndex" : 4
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build/Desktop_Qt_6_8_2-Debug/MediaPlayer/.qt/rcc/qrc_qmake_MediaPlayer.cpp.rule",
+			"sourceGroupIndex" : 4
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build/Desktop_Qt_6_8_2-Debug/MediaPlayer/.rcc/qmlcache/MediaPlayer_qmlcache_loader.cpp.rule",
+			"sourceGroupIndex" : 4
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build/Desktop_Qt_6_8_2-Debug/MediaPlayer/.rcc/qmlcache/MediaPlayer_Main_qml.cpp.rule",
+			"sourceGroupIndex" : 4
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build/Desktop_Qt_6_8_2-Debug/MediaPlayer/.rcc/qmlcache/MediaPlayer_Images_qml.cpp.rule",
+			"sourceGroupIndex" : 4
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build/Desktop_Qt_6_8_2-Debug/MediaPlayer/.rcc/qmlcache/MediaPlayer_MetadataInfo_qml.cpp.rule",
+			"sourceGroupIndex" : 4
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build/Desktop_Qt_6_8_2-Debug/MediaPlayer/.rcc/qmlcache/MediaPlayer_PlayerMenuBar_qml.cpp.rule",
+			"sourceGroupIndex" : 4
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build/Desktop_Qt_6_8_2-Debug/MediaPlayer/.rcc/qmlcache/MediaPlayer_TracksInfo_qml.cpp.rule",
+			"sourceGroupIndex" : 4
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build/Desktop_Qt_6_8_2-Debug/MediaPlayer/.rcc/qmlcache/MediaPlayer_TracksOptions_qml.cpp.rule",
+			"sourceGroupIndex" : 4
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build/Desktop_Qt_6_8_2-Debug/MediaPlayer/.rcc/qmlcache/MediaPlayer_PlaylistInfo_qml.cpp.rule",
+			"sourceGroupIndex" : 4
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build/Desktop_Qt_6_8_2-Debug/MediaPlayer/.rcc/qmlcache/MediaPlayer_UrlPopup_qml.cpp.rule",
+			"sourceGroupIndex" : 4
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build/Desktop_Qt_6_8_2-Debug/MediaPlayer/.rcc/qmlcache/MediaPlayer_SettingsInfo_qml.cpp.rule",
+			"sourceGroupIndex" : 4
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build/Desktop_Qt_6_8_2-Debug/MediaPlayer/.rcc/qmlcache/MediaPlayer_ThemeInfo_qml.cpp.rule",
+			"sourceGroupIndex" : 4
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build/Desktop_Qt_6_8_2-Debug/MediaPlayer/.rcc/qmlcache/MediaPlayer_ErrorPopup_qml.cpp.rule",
+			"sourceGroupIndex" : 4
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build/Desktop_Qt_6_8_2-Debug/MediaPlayer/.rcc/qmlcache/MediaPlayer_TouchMenu_qml.cpp.rule",
+			"sourceGroupIndex" : 4
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build/Desktop_Qt_6_8_2-Debug/MediaPlayer/.qt/rcc/qrc_MediaPlayer_raw_qml_0.cpp.rule",
+			"sourceGroupIndex" : 4
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build/Desktop_Qt_6_8_2-Debug/MediaPlayer/MediaPlayer_autogen/timestamp.rule",
+			"sourceGroupIndex" : 4
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build/Desktop_Qt_6_8_2-Debug/MediaPlayer/meta_types/MediaPlayer_json_file_list.txt.rule",
+			"sourceGroupIndex" : 4
+		},
+		{
+			"backtrace" : 12,
+			"path" : "/home/phong/Qt/6.8.2/gcc_64/metatypes/qt6qml_relwithdebinfo_metatypes.json",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 12,
+			"path" : "/home/phong/Qt/6.8.2/gcc_64/metatypes/qt6core_relwithdebinfo_metatypes.json",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 12,
+			"path" : "/home/phong/Qt/6.8.2/gcc_64/metatypes/qt6network_relwithdebinfo_metatypes.json",
+			"sourceGroupIndex" : 1
+		}
+	],
+	"type" : "STATIC_LIBRARY"
+}

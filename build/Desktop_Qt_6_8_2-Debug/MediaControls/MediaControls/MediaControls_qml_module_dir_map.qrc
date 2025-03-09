@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/">
+    <file alias="/qt/qml/MediaControls">/home/phong/Qt/Examples/Qt-6.8.2/demos/mediaplayer/build/Desktop_Qt_6_8_2-Debug/MediaControls/MediaControls</file>
+
+  </qresource>
+</RCC>

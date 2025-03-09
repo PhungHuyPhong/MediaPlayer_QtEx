@@ -1,0 +1,52 @@
+[
+    {
+        "moduleFiles": [
+            {
+                "entries": [
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 15,
+                        "durationMicroseconds": 514,
+                        "errorMessage": "",
+                        "functionName": "onOpened",
+                        "line": 15
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 23,
+                        "durationMicroseconds": 262,
+                        "errorMessage": "",
+                        "functionName": "centerIn",
+                        "line": 10
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 21,
+                        "durationMicroseconds": 549,
+                        "errorMessage": "Cannot access value for name ControlImages",
+                        "functionName": "source",
+                        "line": 25
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 39,
+                        "durationMicroseconds": 270,
+                        "errorMessage": "",
+                        "functionName": "horizontalCenter",
+                        "line": 26
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 22,
+                        "durationMicroseconds": 184,
+                        "errorMessage": "",
+                        "functionName": "onTriggered",
+                        "line": 39
+                    }
+                ],
+                "filepath": "/home/phong/Qt/Examples/Qt-6.8.2/demos/mediaplayer/MediaPlayer/ErrorPopup.qml"
+            }
+        ],
+        "moduleId": "MediaPlayer(MediaPlayer)"
+    }
+]
