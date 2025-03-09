@@ -1,7 +1,9 @@
 # MediaPlayer_QtEx
+![alt text](image.png)
 This example demonstrates a simple multimedia player that can play audio and video files using various codecs.
 
 ## Project structure
+![alt text](<Chụp màn hình từ 2025-03-09 12-02-07.png>)   
 This applications architecture is comprised of three custom QML modules:
 - MediaControl
 - MediaPlayer
@@ -60,6 +62,7 @@ Now to use it in our application, see how it is referenced in MediaPlayer's Main
 ```
 ## The custom MediaControls QML module
 This module holds all the types used to define the application's controls including:
+![alt text](image-1.png)
 - AudioControl.qml
 - ControlImages.qml
 - CustomButton.qml
@@ -145,7 +148,6 @@ This module has the Main.qml file which declares where most of the top level typ
      }
 ```
 The module contains the other customs types used for retrieving and displaying file information, as well as calling the file picker.
-
 - ErrorPopup.qml
 - Images.qml
 - MetadataInfo.qml
